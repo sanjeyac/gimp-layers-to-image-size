@@ -40,11 +40,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## Author
-
-- **Your Name**
-- GitHub: [Your GitHub Profile](https://github.com/YourUsername)
-
 ## Acknowledgments
 
 - [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program.
